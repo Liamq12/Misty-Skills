@@ -1,0 +1,13 @@
+{
+    "Name": "attendance",
+    "UniqueId" : "e9e2768a-ef73-4dad-b7e6-6a08f71be379",
+    "Description": "Attendance Tracker",
+    "StartupRules": ["Manual", "Robot"],
+    "Language": "javascript",
+    "BroadcastMode": "verbose",
+    "TimeoutInSeconds": 900,
+    "CleanupOnCancel": false,
+    "SkillStorageLifetime": "Reboot",
+    "WriteToLog": false,
+    "Parameters": { }
+}
