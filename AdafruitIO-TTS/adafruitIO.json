@@ -1,0 +1,15 @@
+{
+    "Name": "adafruitIO",
+    "UniqueId" : "e9e8768a-ef73-4fad-d8e6-6a08f716e379",
+    "Description": "Adafruit.io to misty",
+    "StartupRules": ["Manual", "Robot"],
+    "Language": "javascript",
+    "BroadcastMode": "verbose",
+    "TimeoutInSeconds": 300,
+    "CleanupOnCancel": false,
+    "SkillStorageLifetime": "Reboot",
+    "WriteToLog": false,
+    "Parameters": {
+        "TTSContent": "lOngDumbStRinG"
+     }
+}
