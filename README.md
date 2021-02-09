@@ -7,4 +7,4 @@ Misty the TV Assassin. With this skill and the hardware, misty can roam turning 
 # AdafruitIO-TTS
 My quick solution to some TTS issues I was having, reads data from an adafruit feed and reads it.
 # Gilfoyle-Alert
-You know that one scene from Silicon Valley? Exactly. Plays an annoying audio <strike> when <strike> while doge coin is efficient to mine. https://www.youtube.com/watch?v=uS1KcjkWdoU&ab_channel=lolValley
+You know that one scene from Silicon Valley? Exactly. Plays an annoying audio <strike> when </strike> while doge coin is efficient to mine. https://www.youtube.com/watch?v=uS1KcjkWdoU&ab_channel=lolValley
