@@ -1,0 +1,13 @@
+{
+    "Name": "TV-Assassin",
+    "UniqueId" : "e2e8768a-ea73-40ad-b7e6-6a78fa16e379",
+    "Description": "For TV-Aassassin",
+    "StartupRules": ["Manual", "Robot"],
+    "Language": "javascript",
+    "BroadcastMode": "verbose",
+    "TimeoutInSeconds": 900,
+    "CleanupOnCancel": false,
+    "SkillStorageLifetime": "Reboot",
+    "WriteToLog": false,
+    "Parameters": { }
+}
