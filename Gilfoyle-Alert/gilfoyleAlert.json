@@ -1,0 +1,13 @@
+{
+    "Name": "gilfoyleAlert",
+    "UniqueId" : "e9e8768a-eb73-4fad-b7e6-6a69f716e379",
+    "Description": "https://www.youtube.com/watch?v=uS1KcjkWdoU&ab_channel=lolValley but dogecoin",
+    "StartupRules": ["Manual", "Robot"],
+    "Language": "javascript",
+    "BroadcastMode": "verbose",
+    "TimeoutInSeconds": 300,
+    "CleanupOnCancel": false,
+    "SkillStorageLifetime": "Reboot",
+    "WriteToLog": false,
+    "Parameters": { }
+}
