@@ -1,5 +1,5 @@
 # Misty-Skills
-A collection of skills I've created/modified. 
+A collection of skills I've created/modified. Big thanks to the examples maintained by misty, of which many of these are derivatives of. https://github.com/MistyCommunity/JavaScript-SDK
 # Attendance
 An attendance tracker for SSA. To be used to make it simpler for Instructors to register attendance at the start of class.
 # TV-Assassin
